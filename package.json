@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Proyecto del curso fullstack - Universidad Austral",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://julioergocesar-admin@bitbucket.org/ergocesar/guia-hoteles.git"
+  },
+  "author": "Julio Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/ergocesar/guia-hoteles/issues"
+  },
+  "homepage": "https://bitbucket.org/ergocesar/guia-hoteles#readme"
+}
